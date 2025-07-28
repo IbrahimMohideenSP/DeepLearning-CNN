@@ -27,16 +27,17 @@ A real-time AI-powered facial liveness detection system built with Convolutional
 
 ## Project Structure
 
-Face-Anti-Spoofing/ ├── app_interface.py       
-                    ├── train_model.py  
-                    ├── data/ 
-                            ├── train/ 
-                                   ├── color/ 
-                                   └── depth/ 
-                            │── test/ 
-                                   ├── color/
-                                   └── depth/ 
-                    ├── enrolled_faces/      
+Face-Anti-Spoofing/
+├── app_interface.py       
+├── train_model.py 
+├── data/ 
+  ├── train/ 
+       ├── color/ 
+       └── depth/ 
+  │── test/ 
+       ├── color/
+       └── depth/ 
+├── enrolled_faces/      
 
 
 ## 📊 Dataset:
