@@ -1,6 +1,7 @@
 # DeepLearning-CNN
 **Projects:**
-** 1. [Handwritten Digit Recognition]**
+
+ 1. Handwritten Digit Recognition
   
   A deep learning model to classify handwritten digits (0–9):
 - 🔢 Trained on the *MNIST dataset*
