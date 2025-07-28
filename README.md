@@ -100,6 +100,7 @@ Sample Output
 Model Highlights
 
 Input image resized to 224x224 for model compatibility.
+
 CNN trained with:
 
 Augmentation
